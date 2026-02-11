@@ -1,10 +1,11 @@
 # CODE**AKROBAT**
 
-### Softwareentwicklung & Design – Präzision trifft auf Kreativität.
+### Softwareentwicklung & Design – Präzision trifft auf Kreativität. (Deutsch)
+###Software Development & Design – Where Precision Meets Creativity. (English)
 
 ---
 
-## Hinter der Manege
+## Hinter der Kulisse
 
 Präzision im Blut – Logik im Code.
 
@@ -71,13 +72,6 @@ An Interface with Soul: The AxonSurface DE (Desktop Environment) provides an aes
 
 NeuraBSD is not a compromise. It is the symbiosis of high-end security and creative freedom.
 
----
-
-## 🔗 Kontakt
-<a href="https://codeakrobat.de"><img src="https://img.shields.io/badge/Website-FF8C42?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:lead@neurabsd.org"><img src="https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
----
 
 ### 📊 Aktivität
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DH-NBSD&show_icons=true&theme=tokyonight&base_color=ff8c42&icon_color=ff8c42&title_color=ffffff)
