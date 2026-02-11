@@ -76,6 +76,3 @@ An Interface with Soul: The AxonSurface DE (Desktop Environment) provides an aes
 
 NeuraBSD is not a compromise. It is the symbiosis of high-end security and creative freedom.
 
-
-### 📊 Aktivität
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DH-NBSD&show_icons=true&theme=tokyonight&base_color=ff8c42&icon_color=ff8c42&title_color=ffffff)
