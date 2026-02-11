@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="40" /> CODE**AKROBAT**
+# CODE**AKROBAT**
 
-### 👨‍💻 Softwareentwicklung & Design – Präzision trifft auf Kreativität.
+### Softwareentwicklung & Design – Präzision trifft auf Kreativität.
 
 ---
 
