@@ -5,8 +5,7 @@
 
 ---
 
-## Hinter der Kulisse
-
+## Hinter der Kulisse (DE)
 Präzision im Blut – Logik im Code.
 
 Mein Weg begann nicht am Bildschirm, sondern in der Feinmechanik. Dort lernte ich, dass Perfektion im Detail liegt. Mitte der 90er Jahre entdeckte ich die Welt der Webprogrammierung, die mich seitdem nicht mehr losgelassen hat. Über die Gestaltung intuitiver UI/UX-Interfaces führte mich meine Neugier immer tiefer in den Maschinenraum der Software: von C/C++ bis hin zur Entwicklung von NeuraBSD [cite: 2026-02-05].
@@ -22,11 +21,15 @@ Today, I act as a translator between complex system logic and human intuition. A
 
 ---
 
-## 🛠 Meine Disziplinen
+## Meine Disziplinen (DE)
 | UI/UX Design | Application Dev | System Core |
 | :--- | :--- | :--- |
 | Design trifft Psychologie: Intuitive Interfaces von der Skizze bis zum Prototyp. | Logik trifft Effizienz: Performante Anwendungen in sauberem Code. | Präzision im Kern: Low-Level Entwicklung für NeuraBSD. |
 
+
+## My Disciplines (EN)
+| UI/UX Design | Application Dev | System Core |
+| Design meets Psychology: Intuitive interfaces from initial sketch to final prototype. | Logic meets Efficiency: High-performance applications written in clean code. | Precision at the Core: Low-level development for NeuraBSD. |
 ---
 
 ## Expertise & Technologien
