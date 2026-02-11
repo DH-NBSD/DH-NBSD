@@ -1,7 +1,7 @@
 # CODE**AKROBAT**
 
 ### Softwareentwicklung & Design – Präzision trifft auf Kreativität. (Deutsch)
-###Software Development & Design – Where Precision Meets Creativity. (English)
+### Software Development & Design – Where Precision Meets Creativity. (English)
 
 ---
 
