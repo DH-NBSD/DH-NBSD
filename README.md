@@ -44,6 +44,8 @@ Interface mit Seele: Das AxonSurface DE (Desktop Environment) bietet eine ästhe
 NeuraBSD ist kein Kompromiss. Es ist die Symbiose aus High-End Security und Kreativer Freiheit.
 
 
+
+
 ## Focus: My Vision & Mission (English)
 OpenBSD for Everyone – Secure. Intuitive. Elegant.
 
