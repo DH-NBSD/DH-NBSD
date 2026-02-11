@@ -5,7 +5,19 @@
 ---
 
 ## Hinter der Manege
-Ich bin Übersetzer zwischen komplexer Logik und menschlicher Intuition. Mein Weg begann im Maschinenraum mit **C, C++ und Assembler**. Als **UI/UX Designer** schlage ich heute die Brücke zum Nutzer: Die harte Präzision der Systemwelt vereint mit der Leichtigkeit moderner Interfaces.
+
+Präzision im Blut – Logik im Code.
+
+Mein Weg begann nicht am Bildschirm, sondern in der Feinmechanik. Dort lernte ich, dass Perfektion im Detail liegt. Mitte der 90er Jahre entdeckte ich die Welt der Webprogrammierung, die mich seitdem nicht mehr losgelassen hat. Über die Gestaltung intuitiver UI/UX-Interfaces führte mich meine Neugier immer tiefer in den Maschinenraum der Software: von C/C++ bis hin zur Entwicklung von NeuraBSD [cite: 2026-02-05].
+
+Heute bin ich der Übersetzer zwischen komplexer Systemlogik und menschlicher Intuition. Nach Jahren der autodidaktischen Perfektionierung und der Leitung eigener Open-Source-Projekte [cite: 2026-02-05], ist es nun mein Ziel, diese Leidenschaft als Software Engineer auch beruflich zu verankern.
+
+## Behind the Scenes (EN)
+Precision in my Veins – Logic in my Code.
+
+My journey didn't start at a screen, but in precision mechanics. There, I learned that perfection lies in the details. In the mid-90s, I discovered the world of web programming, and it hasn't let go of me since. Through the creation of intuitive UI/UX interfaces, my curiosity led me deeper into the engine room of software: from C/C++ to the development of NeuraBSD [cite: 2026-02-05].
+
+Today, I act as a translator between complex system logic and human intuition. After years of self-taught refinement and leading my own open-source projects [cite: 2026-02-05], I am now aiming to formalize this passion professionally as a Software Engineer.
 
 ---
 
