@@ -29,6 +29,7 @@ Today, I act as a translator between complex system logic and human intuition. A
 
 ## My Disciplines (EN)
 | UI/UX Design | Application Dev | System Core |
+| :--- | :--- | :--- |
 | Design meets Psychology: Intuitive interfaces from initial sketch to final prototype. | Logic meets Efficiency: High-performance applications written in clean code. | Precision at the Core: Low-level development for NeuraBSD. |
 ---
 
